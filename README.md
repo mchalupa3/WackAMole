@@ -3,7 +3,7 @@
 We made this project in our computer science capstone class.
 This is a simple Arduino project consisting of 4 buttons, 4 LEDs, and LCD screen. When the LED lights up, you press the corrisponding button to raise your score by one. 
 
-![alt text](https://raw.githubusercontent.com/mchalupa3/WackAMole/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/mchalupa3/WackAMole/blob/master/unnamed.jpg)
 
 ## Getting Started
 
