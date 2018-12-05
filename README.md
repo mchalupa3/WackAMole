@@ -5,6 +5,8 @@ This is a simple Arduino project consisting of 4 buttons, 4 LEDs, and LCD screen
 
 ![alt text](https://raw.githubusercontent.com/mchalupa3/WackAMole/blob/master/unnamed.jpg)
 
+<img src="https://raw.githubusercontent.com/mchalupa3/WackAMole/blob/master/unnamed.jpg"></img>
+
 ## Getting Started
 
 Download the arduino file, open it in the Arduino app, and push it to the Arduino. 
